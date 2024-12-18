@@ -6,11 +6,11 @@
 ---
 
 ## **Packages Structure**
-- package names: com.irctc.dept/functionality.model
-- package names: com.irctc.dept/functionality.service
-- package names: com.irctc.dept/functionality.repository
-- package names: com.irctc.dept/functionality.controller
-- package names: com.irctc.dept/functionality.utility
+- package names: com.irctcbooking.model
+- package names: com.irctcbooking.service
+- package names: com.irctcbooking.repository
+- package names: com.irctcbooking.controller
+- package names: com.irctcbooking.utility
 
 
 
